@@ -14,3 +14,37 @@
 .logo{
    padding-left: 5px; 
 }
+
+.allignamento {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.titolo{
+    padding-top: 20px;
+}
+
+.color-booleaner {
+    color: rgb(0, 132, 255);
+}
+
+.sottotitolo {
+    color: gray;
+}
+
+.data {
+    font-size: 12px;
+}
+
+.immagini{
+    padding-top: 15px;
+    font-size: 12px;
+}
+
+.primo-paragrafo{
+    padding-top: 20px;
+}
+
+.lista-non-ordinata{
+    padding-top: 15px;
+}
