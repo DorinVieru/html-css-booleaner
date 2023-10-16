@@ -65,3 +65,29 @@
     padding-top: 20px;
     padding-bottom: 40px;
 }
+
+.color-footer{
+    color: gray;
+    padding-bottom: 10px;
+}
+
+.immagine-monitor{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 250px;
+}
+
+.immagine-graph{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 250px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.color-text-footer{
+    color: white;
+    padding: 10px;
+}
